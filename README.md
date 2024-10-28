@@ -1,4 +1,4 @@
-[![MasterHead](https://winterinfotech.com/wp-content/uploads/2022/07/Mern-Main.svg)]
+![MasterHead](https://winterinfotech.com/wp-content/uploads/2022/07/Mern-Main.svg)
 <h1 align="center">Hi 👋, I'm Raskan Mohammed</h1>
 <h3 align="center">A passionate Full-Stack Developer from Sri Lanka</h3>
 
