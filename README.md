@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwinterinfotech.com%2Fhire-mern-stack-developer%2F&psig=AOvVaw234exvS6jwZPV7ld1dbx-g&ust=1730190782757000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMjRqYrVsIkDFQAAAAAdAAAAABAR)]
+[![MasterHead](https://winterinfotech.com/wp-content/uploads/2022/07/Mern-Main.svg)]
 <h1 align="center">Hi 👋, I'm Raskan Mohammed</h1>
 <h3 align="center">A passionate Full-Stack Developer from Sri Lanka</h3>
 
