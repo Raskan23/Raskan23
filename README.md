@@ -25,6 +25,8 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=raskan23&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+### Funny
+![](https://raw.githubusercontent.com/younushcr/younushcr/17cdb4d06d5f549bc62b4ae036fe6a546e577053/output/github-contribution-grid-snake-dark.svg)
 ---
 [![](https://visitcount.itsvg.in/api?id=raskan23&icon=2&color=1)](https://visitcount.itsvg.in)
 
