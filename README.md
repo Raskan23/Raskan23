@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋,  I'm Raskan Mohammed</h1>
 <h3 align="center">A passionate Full-Stack Developer from Sri Lanka</h3>
 
-# 💫 About Me  :
+# 💫 About Me :
 🔭 I’m currently working on **E-Commerce**<br>👯 I’m looking to collaborate on **Web & App Projects**<br>🌱 I’m currently learning **MERN Stack Development**<br>💬 Ask me about **React, Next JS, Node JS, Firebase & MongoDB**
 
 ## 🌐 Socials:
