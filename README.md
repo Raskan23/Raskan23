@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Full-Stack Developer from Sri Lanka</h3>
 
 # 💫 About Me :
-🔭 I’m currently working on **E-Commerce**<br>👯 I’m looking to collaborate on **Web & App Projects (Flutter)**<br>🌱 I’m currently learning **MERN Stack Development**<br>💬 Ask me about **React, Next JS, Node JS, Firebase & MongoDB**
+🔭 I’m currently working on **E-Commerce**<br>👯 I’m looking to collaborate on **Web & App Projects (Flutter)**<br>🌱 I’m currently working on **MERN Stack Development**<br>💬 Ask me about **React, Next JS, Node JS, Firebase & MongoDB**
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/raskhan.mohmmed) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rsk__mhd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-raskan) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/raskhan2327) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@mhdraskhan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Raskhan82689960) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@SL_Traveler23) 
